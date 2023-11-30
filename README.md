@@ -4,7 +4,7 @@ This project is a YouTube clone built using React, TypeScript, and Vite. It aims
 
 ## Demo
 
-[Link to Live Demo](https://youtube-clone-type-script.vercel.app/)
+[Link to Live Demo](https://youtube-clone-type-script.vercel.app)
 
 ## Features
 
