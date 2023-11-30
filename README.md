@@ -10,8 +10,6 @@ This project is a YouTube clone built using React, TypeScript, and Vite. It aims
 
 - Responsive UI similar to YouTube.
 - Video playback functionality.
-- Search functionality to find videos.
-- User authentication (optional).
 
 ## Prerequisites
 
