@@ -30,7 +30,7 @@ export const videos = [
     postedAt: new Date("2023-01-03"),
     duration: 815,
     thumbnailUrl:
-      "https://i9.ytimg.com/vi/aDJekAknK4c/mqdefault.jpg?v=63b3b70f&sqp=CPifo6sG&rs=AOn4CLA9_k_XlxbgHt3rEqRasU1TFzKqfg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJ5Y2dfsslDrPRy8WGlR2buwTg9BsEV_VETSnPNWfytqMb-26",
     videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
   {
